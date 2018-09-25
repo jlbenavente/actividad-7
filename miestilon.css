@@ -1,0 +1,79 @@
+
+      .img-responsive{
+      max-width: 100%;
+      height: auto;
+      }
+      .imgnormalizada img {
+      height: auto;
+      max-height: 650px;
+      }
+
+      }
+      #inicio{
+      text-align: center;
+      color: white;
+      position: absolute;
+      top: 130px;
+      font-size: 40px;
+      right: 650px;
+      margin: auto;
+      }
+
+      .header {
+      background-image: url("images/bg.jpeg");
+      color: white;
+      text-align: center;
+
+
+      }
+      .navbar {
+      background-color: rgba(0,0,0, 0.0);
+      }
+
+      .logo1 {
+      width:150px;
+      }
+
+      .parrafo1{
+      text-align: center;
+      }
+      .subt{
+      text-align: center;
+      padding-top: 40px;
+      font-weight: bold;
+      }
+      .jumbotron{
+      text-align: center;
+
+      }
+      .textoo{
+      text-align: left;
+      }
+      .footext{
+      color: white;
+      padding-top: 27px;
+      padding-left: 5px;
+      }
+
+      li{
+      float: left;
+      list-style-type: none;
+      padding: 20px;
+      }
+
+
+      h1{
+      margin: 40px 0px 30px 0px;
+      }
+
+      input{
+      text-align: center;
+      }
+      footer
+      {
+      background-color: #070B19;
+      height: 70px;
+       }
+       
+      
+      
